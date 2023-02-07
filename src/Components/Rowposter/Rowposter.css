@@ -1,0 +1,14 @@
+.poster-card{
+   cursor: pointer;
+   min-width: 16rem;
+   margin-right: 13px;
+}
+
+.poster-image{
+    height:10rem;
+    border-radius: 2px;
+}
+
+.poster-card:hover{
+   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;;
+}

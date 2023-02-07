@@ -1,0 +1,9 @@
+.footer-section{
+    background: #012b72;
+}
+
+.footer-list{
+    list-style: none;
+    margin-right: 10px;
+    cursor: pointer;
+}

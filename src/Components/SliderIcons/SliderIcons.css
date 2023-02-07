@@ -1,0 +1,30 @@
+
+.slider-icon-section{
+    overflow-x: scroll;
+}
+
+.slider-icon-section::-webkit-scrollbar{
+    display: none;
+}
+
+.slider-list-icons{
+    cursor: pointer;
+    margin-right: 3.2rem;
+    transition: .3s ease-in;
+}
+
+.slider-list{
+    list-style: none;
+    color: black;
+    font-size: 13px;
+}
+
+.slider-list-icons:hover{
+    transform: scale(1.1);
+}
+
+
+.slider-list-image{
+    width: 35px;
+    height: 35px;
+}
