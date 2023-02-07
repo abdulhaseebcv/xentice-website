@@ -3,7 +3,7 @@
     overflow-x: scroll;
 }
 
-.icon-section::-webkit-scrollbar{
+.icon-section::-webkit-scrollbar {
     display: none;
 }
 
@@ -69,4 +69,11 @@
 .banner-list-image {
     width: 35px;
     height: 35px;
+}
+
+@media (max-width:500px) {
+    .search-card {
+        width: 22rem;
+    }
+
 }

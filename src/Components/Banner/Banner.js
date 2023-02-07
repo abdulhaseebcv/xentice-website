@@ -52,15 +52,9 @@ function Banner() {
                             <img className='banner-list-image' src="/images/meeting room.png" alt="" />
                             <li className='icon-list mt-1'>Meeting Room</li>
                         </div>
-
                     </ul>
-
-
                 </div>
             </div>
-
-
-
 
             <div className='row'>
                 <div className="col-md-12 banner">
