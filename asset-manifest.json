@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xentice-website/static/css/main.52dd2360.css",
+    "main.js": "/xentice-website/static/js/main.1b8e0f55.js",
+    "index.html": "/xentice-website/index.html",
+    "main.52dd2360.css.map": "/xentice-website/static/css/main.52dd2360.css.map",
+    "main.1b8e0f55.js.map": "/xentice-website/static/js/main.1b8e0f55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52dd2360.css",
+    "static/js/main.1b8e0f55.js"
+  ]
+}
